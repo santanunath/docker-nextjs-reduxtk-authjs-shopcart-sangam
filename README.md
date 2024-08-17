@@ -1,8 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Created by: Sangam Mukherjee
+
+## Tested: [auth][error] MissingSecret: Please define a `secret`.. Read more at https://errors.authjs.dev#missingsecret
+
+
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies (listed in products.json file)
+
+```bash
+npm install 
+# or
+npm i
+```
+
+Run the development server:
 
 ```bash
 npm run dev
