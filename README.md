@@ -7,7 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, install the dependencies (listed in products.json file)
+First, install the dependencies (listed in package.json file)
 
 ```bash
 npm install 
