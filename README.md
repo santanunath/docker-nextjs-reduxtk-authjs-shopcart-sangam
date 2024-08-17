@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Created by: Sangam Mukherjee
 
-## Tested: ERROR,
+## Tested: ERROR
 [auth][error] MissingSecret: Please define a `secret`.. Read more at https://errors.authjs.dev#missingsecret
 
 
