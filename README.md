@@ -1,8 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Tested: ERROR
 
 ## Created by: Sangam Mukherjee
 
-## Tested: ERROR
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+
 [auth][error] MissingSecret: Please define a `secret`.. Read more at https://errors.authjs.dev#missingsecret
 
 
