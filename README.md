@@ -2,7 +2,7 @@
 
 ## Created by: Sangam Mukherjee
 
-#### fetching data from third part api https://dummyjson.com/products
+#### fetching data from third part api https://dummyjson.com/products (see in /src/actions/index.js)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
