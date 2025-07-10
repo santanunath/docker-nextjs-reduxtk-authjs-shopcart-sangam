@@ -19,7 +19,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - next-auth
 - react-redux": "^9.1.2",
 - tailwindcss
-- redux toolkit
+
+## used 'Redux Toolkit' for session management 
+
+
 
 ### Fetching data from third pary API https://dummyjson.com/products (see in /src/actions/index.js)
       
