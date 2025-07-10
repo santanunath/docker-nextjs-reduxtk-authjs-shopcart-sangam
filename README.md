@@ -11,10 +11,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 [auth][error] MissingSecret: Please define a `secret`.. Read more at https://errors.authjs.dev#missingsecret
 
 ## Tech Stack
-- Nextjs (v14.2.5) Nodejs v18
-- typescript
-- mongodb
-- mailtrap (for email delivery)
+- Nextjs (v14.2.3) Reactjs v18
+- Nodejs (version in Dockerfile)
+- radix-ui
+- class-variance-authority": "^0.7.0",
+- clsx": "^2.1.1",
+- lucide-react": "^0.376.0",
+- next-auth
+- react-redux": "^9.1.2",
+- tailwindcss
+
       
 ## Nextjs14/15 application structure 
 'public' and 'src/app' folders are created automatically.   
