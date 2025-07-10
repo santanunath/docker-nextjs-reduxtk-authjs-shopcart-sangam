@@ -22,7 +22,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - tailwindcss
 - redux toolkit
 
-## Fetching data from third pary API https://dummyjson.com/products (see in /src/actions/index.js)
+### Fetching data from third pary API https://dummyjson.com/products (see in /src/actions/index.js)
       
 ## Nextjs14/15 application structure 
   
