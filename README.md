@@ -29,10 +29,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - all 'pages' in nextjs must be defined inside folder /src/app/
 - all server actions (API substitute) defined in folder /src/actions/
 - all 'ui components' are defined inside folder /src/components/ 
-- db connection is defined inside folder /src/dbConfig/
-- all db model schema are defined inside folder /src/models/
 - for Redux Toolkit, we have created folders src/lib, src/procider, src/store
-
+- third party API (https://dummyjson.com/products) called in /src/actions/
 
 ## Getting Started
 
