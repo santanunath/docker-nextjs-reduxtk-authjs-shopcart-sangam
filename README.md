@@ -20,7 +20,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - next-auth
 - react-redux": "^9.1.2",
 - tailwindcss
-
+- redux toolkit
       
 ## Nextjs14/15 application structure 
   
@@ -31,7 +31,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - all 'ui components' are defined inside folder /src/components/ 
 - db connection is defined inside folder /src/dbConfig/
 - all db model schema are defined inside folder /src/models/
-- all utilities (tokens, mailers) are defined inside folder /src/helpers/
+- for redux toolkit, we have created folders src/lib, src/
 
 
 ## Getting Started
