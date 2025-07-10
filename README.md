@@ -11,11 +11,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Nextjs (v14.2.3) Reactjs v18
 - Nodejs (version in Dockerfile)
 - radix-ui
-- class-variance-authority": "^0.7.0",
-- clsx": "^2.1.1",
-- lucide-react": "^0.376.0",
+- class-variance-authority
+- clsx
+- lucide-react
 - next-auth
-- react-redux": "^9.1.2",
+- react-redux (redux toolkit)
 - tailwindcss
 
 ## used 'Redux Toolkit' for session management 
