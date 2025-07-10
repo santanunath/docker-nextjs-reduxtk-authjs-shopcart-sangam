@@ -21,6 +21,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - react-redux": "^9.1.2",
 - tailwindcss
 - redux toolkit
+
+## Fetching data from third pary API https://dummyjson.com/products (see in /src/actions/index.js)
       
 ## Nextjs14/15 application structure 
   
@@ -31,8 +33,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - all 'ui components' are defined inside folder /src/components/ 
 - for Redux Toolkit, we have created folders src/lib, src/procider, src/store
 - third party API (https://dummyjson.com/products) called in /src/actions/
-
-### Fetching data from third pary API https://dummyjson.com/products (see in /src/actions/index.js)
 
 
 ## Getting Started
