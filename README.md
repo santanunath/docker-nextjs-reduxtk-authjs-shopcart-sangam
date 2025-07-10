@@ -32,7 +32,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - for Redux Toolkit, we have created folders src/lib, src/procider, src/store
 - third party API (https://dummyjson.com/products) called in /src/actions/
 
-### fetching data from third part api https://dummyjson.com/products (see in /src/actions/index.js)
+### Fetching data from third pary API https://dummyjson.com/products (see in /src/actions/index.js)
 
 
 ## Getting Started
