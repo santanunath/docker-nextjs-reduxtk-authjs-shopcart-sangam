@@ -7,8 +7,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-[auth][error] MissingSecret: Please define a `secret`.. Read more at https://errors.authjs.dev#missingsecret
-
 ## Tech Stack
 - Nextjs (v14.2.3) Reactjs v18
 - Nodejs (version in Dockerfile)
@@ -22,7 +20,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## used 'Redux Toolkit' for session management 
 
-
+## Error:
+[auth][error] MissingSecret: Please define a `secret`.. Read more at https://errors.authjs.dev#missingsecret
 
 ### Fetching data from third pary API https://dummyjson.com/products (see in /src/actions/index.js)
       
