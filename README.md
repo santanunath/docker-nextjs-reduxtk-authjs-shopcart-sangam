@@ -31,7 +31,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - all 'ui components' are defined inside folder /src/components/ 
 - db connection is defined inside folder /src/dbConfig/
 - all db model schema are defined inside folder /src/models/
-- for redux toolkit, we have created folders src/lib, src/
+- for Redux Toolkit, we have created folders src/lib, src/procider, src/store
 
 
 ## Getting Started
