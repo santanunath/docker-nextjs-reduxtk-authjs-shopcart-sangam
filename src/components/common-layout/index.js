@@ -4,14 +4,19 @@ import { Suspense } from "react";
 
 const { default: ReduxProvider } = require("@/provider");
 
-async function CommonLayout({ children }) {
+
+async function CommonLayout({ children }) 
+{
   const getSession = await auth();
 
   return (
+    
     <ReduxProvider getSession={getSession}>
       <Suspense fallback={<Loading />}>{children}</Suspense>
     </ReduxProvider>
+
   );
-}
+
+} //CommonLayout()
 
 export default CommonLayout;
