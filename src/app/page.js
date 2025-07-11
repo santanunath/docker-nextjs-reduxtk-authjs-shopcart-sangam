@@ -7,6 +7,7 @@ export default async function Home()
 {
   
   const getSession = await auth();
+  
   console.log(getSession);
 
   if (!getSession?.user) redirect("/unauth-page");
