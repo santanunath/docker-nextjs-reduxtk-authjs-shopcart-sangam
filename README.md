@@ -22,6 +22,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Error:
 [auth][error] UntrustedHost: Host must be trusted. URL was:   http://192.168.0.102:3000/api/auth/session. Read more at     https://errors.authjs.dev#untrustedhost    
+(Thrown when the 'trustHost' option was not set to 'true').    
+  
 
 ### Fetching data from third pary API https://dummyjson.com/products (see in /src/actions/index.js)
       
