@@ -8,4 +8,7 @@ services:
        ports:
           - "3000:3000"
        command:
-          "npm run start" #for production environment 
+          "npm run start -- --host" #for production environment 
+          
+#-- --host (allows to access this application from other devices
+# in same network)
