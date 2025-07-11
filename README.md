@@ -21,6 +21,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## used 'Redux Toolkit' for session management 
 
 ## Error:
+[auth][error] MissingSecret: Please define a `secret`.. Read more at https://errors.authjs.dev#missingsecret
+       
 [auth][error] UntrustedHost: Host must be trusted. URL was:   http://192.168.0.102:3000/api/auth/session. Read more at     https://errors.authjs.dev#untrustedhost  (auth.js)  
 (Thrown when the 'trustHost' option was not set to 'true').    
   
