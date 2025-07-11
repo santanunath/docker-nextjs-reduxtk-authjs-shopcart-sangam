@@ -12,6 +12,7 @@ const cartSlice = createSlice({
       console.log(state, action);
       state.cartItems.push(action.payload);
     },
+    
     removeFromCart(state, action) {
       let cpyCartItems = [...state.cartItems];
       cpyCartItems = cpyCartItems.filter((item) => item.id !== action.payload);
