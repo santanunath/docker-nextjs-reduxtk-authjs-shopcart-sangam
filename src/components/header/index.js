@@ -4,20 +4,31 @@ import Link from "next/link";
 import { Button } from "../ui/button";
 import { loginAction, logoutAction } from "@/actions";
 
-
+// page header (component)
+// -----------------------
 function Header({ getSession }) 
 {
   
   console.log(getSession, "getSession in header");
 
+  
+  // after clicking form 'submit' button
+  // this function is executed 
+  // see below..the Login/Logout submit button 
+  // -----------------
   async function handleOauthSignOut() 
   {
-    await logoutAction();
+    await logoutAction(); //calls server action defined in /src/actions/
   }
 
+
+  // after clicking form 'submit' button
+  // this function is executed 
+  // see below..the Login/Logout submit button 
+  // -----------------
   async function handleOauthSignIn() 
   {
-    await loginAction();
+    await loginAction(); //calls server action defined in /src/actions/
   }
 
   return (
